@@ -10,6 +10,11 @@
 **Repository:** https://github.com/proofprotocol/agentwin-spec  
 **Published:** 2026-07-16  
 
+## Cite as
+
+Ellrod, C. (2026). PP-SPEC-016: AgenTwin: Configurable Agent Under Test.
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.21404841
+
 ---
 
 ## Abstract
